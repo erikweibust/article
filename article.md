@@ -14,13 +14,13 @@ In this tutorial you'll use Git to manage a small Markdown document. You'll stor
 
 Obviously the intro stuff; left out here
 
-git diff article.md
-git diff article.md > article_diff.diff
-git log
-git log --oneline
-git show 95fed84 article.md
-git show 95fed84:./article.md
-git show 95fed84:./article.md > old_article.md
+* git diff article.md
+* git diff article.md > article_diff.diff
+* git log
+* git log --oneline
+* git show 95fed84 article.mdD
+* git show 95fed84:./article.md
+* git show 95fed84:./article.md > old_article.md
 
 ## Article Url
 https://www.digitalocean.com/community/tutorials/how-to-use-git-to-manage-your-writing-project
