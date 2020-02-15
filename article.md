@@ -18,7 +18,7 @@ Obviously the intro stuff; left out here
 * git diff article.md > article_diff.diff
 * git log
 * git log --oneline
-* git show 95fed84 article.mdD
+* git show 95fed84 article.md
 * git show 95fed84:./article.md
 * git show 95fed84:./article.md > old_article.md
 
